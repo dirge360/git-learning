@@ -1,0 +1,11 @@
+# 文件名称 .gitignore 
+# 忽略secret.yml文件 
+secret.yml 
+# 忽略config目录下的database.yml文件 
+config/database.yml 
+# 忽略db目录下所有后缀是 .sqlite3的文件 
+/db/*.sqlite3 
+# 忽略所有后缀是 .tmp的文件 
+*.tmp 
+# 如果想要忽略.gitignore这个文件也可以，只是通常不会这么做 
+# .gitignore
