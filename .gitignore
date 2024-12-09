@@ -2,7 +2,7 @@
 # 忽略secret.yml文件 
 secret.yml 
 # 忽略config目录下的database.yml文件 
-config/database.yml 
+#config/database.yml 
 # 忽略db目录下所有后缀是 .sqlite3的文件 
 /db/*.sqlite3 
 # 忽略所有后缀是 .tmp的文件 
